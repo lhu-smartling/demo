@@ -29,3 +29,6 @@
 
 /* This is a new string for test */
 "New Test string" = "Test string Jan 17";
+
+/* Weather this weekend */
+"Snowstorms coming" = "Snowstorms coming";
