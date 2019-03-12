@@ -29,3 +29,6 @@
 
 /* This is a new string for test */
 "New Test string" = "Tiges d’essai 17 Jan";
+
+/* Weather this weekend */
+"Snowstorms coming" = "Les tempêtes de neige à venir";

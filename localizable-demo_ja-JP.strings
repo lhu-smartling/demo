@@ -29,3 +29,6 @@
 
 /* This is a new string for test */
 "New Test string" = "テスト文字列 1 月 17 日";
+
+/* Weather this weekend */
+"Snowstorms coming" = "吹雪が来る";
