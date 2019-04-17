@@ -1,0 +1,16 @@
+[
+{
+  "key" : "recorded_today",
+  "owner" : "messenger",
+  "notes" : "Used for timestamp on video VAMs",
+  "platforms" : ["web-messenger"],
+  "value" : "Recorded today"
+},
+
+{
+  "key" : "foo",
+  "owner" : "messenger",
+  "notes" : "Used for timestamp on video VAMs",
+  "platforms" : ["web-messenger"],
+  "value" : "Automobile"
+}]
