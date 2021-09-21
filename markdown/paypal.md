@@ -7,6 +7,10 @@ productStatus: Current
 date: 2021-08-21T23:24:15Z
 ---
 
+| title  | subtitle | contentType  | keywords | productStatus  | date |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Website Payments Standard  | Add a simple payment button to accept payments  | limited\-release\-docs  | PayPal, China, WPS, Website Payments Standard, Accept Payments  | Current  | 2021-08-21T23:24:15Z  |
+
 Website Payments Standard (WPS) provides payment buttons that buyers can use to pay for purchases. Merchants can use the buttons to securely accept credit card, debit card, and PayPal payments on their website.
 
 ## How it works 01
